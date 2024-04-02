@@ -23,6 +23,7 @@ function ModuleRoutes(app) {
       course: cid,
       _id: new Date().getTime().toString(),
     };
+    console.log(newModule);
     db.modules.push(newModule);
     res.send(newModule);
   });
