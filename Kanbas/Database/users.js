@@ -1,6 +1,6 @@
 export default [
   {
-    _id: "121",
+    // _id: "121",
     username: "iron_man",
     password: "stark123",
     firstName: "Tony",
@@ -10,7 +10,7 @@ export default [
     role: "STUDENT",
   },
   {
-    _id: "122",
+    // _id: "122",
     username: "dark_knight",
     password: "wayne123",
     firstName: "Bruce",
@@ -20,7 +20,7 @@ export default [
     role: "STUDENT",
   },
   {
-    _id: "123",
+    // _id: "123",
     username: "capt_america",
     password: "rogers123",
     firstName: "Steve",
@@ -30,7 +30,7 @@ export default [
     role: "STUDENT",
   },
   {
-    _id: "124",
+    // _id: "124",
     username: "black_widow",
     password: "romanoff123",
     firstName: "Natasha",
@@ -40,7 +40,7 @@ export default [
     role: "STUDENT",
   },
   {
-    _id: "125",
+    // _id: "125",
     username: "thor_odinson",
     password: "mjolnir123",
     firstName: "Thor",
@@ -50,7 +50,7 @@ export default [
     role: "STUDENT",
   },
   {
-    _id: "126",
+    // _id: "126",
     username: "hulk_smash",
     password: "banner123",
     firstName: "Bruce",
@@ -60,7 +60,7 @@ export default [
     role: "STUDENT",
   },
   {
-    _id: "127",
+    // _id: "127",
     username: "ring_bearer",
     password: "shire123",
     firstName: "Frodo",
@@ -70,7 +70,7 @@ export default [
     role: "FACULTY",
   },
   {
-    _id: "128",
+    // _id: "128",
     username: "strider",
     password: "aragorn123",
     firstName: "Aragorn",
@@ -80,7 +80,7 @@ export default [
     role: "FACULTY",
   },
   {
-    _id: "129",
+    // _id: "129",
     username: "elf_archer",
     password: "legolas123",
     firstName: "Legolas",
@@ -90,7 +90,7 @@ export default [
     role: "FACULTY",
   },
   {
-    _id: "130",
+    // _id: "130",
     username: "macho",
     password: "macho23",
     firstName: "Macho",
@@ -100,7 +100,7 @@ export default [
     role: "STUDENT",
   },
   {
-    _id: "131",
+    // _id: "131",
     username: "sheero",
     password: "sheero123",
     firstName: "Shinchan",
